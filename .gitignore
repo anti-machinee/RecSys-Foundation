@@ -1,0 +1,11 @@
+# vscode
+.vscode
+
+# local
+opensources
+
+# compile
+__pycache__
+
+# docs
+*.pdf
